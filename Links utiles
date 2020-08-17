@@ -1,0 +1,11 @@
+Links Utiles:
+
+Clustering: 
+Resumen general : https://rpubs.com/Joaquin_AR/310338 (Excelente para gráficos)
+PAM algoritmo : https://www.datanovia.com/en/lessons/k-medoids-in-r-algorithm-and-practical-examples/
+Cluster Jerárquico: https://rpubs.com/mjimcua/clustering-jerarquico-en-r
+Clustering series de tiempo: 
+https://www.kaggle.com/darshanadiga/time-series-data-exploration
+https://cran.r-project.org/web/packages/dtwclust/vignettes/dtwclust.pdf
+https://datawookie.netlify.app/blog/2017/04/clustering-time-series-data/
+http://halweb.uc3m.es/esp/Personal/personas/amalonso/esp/ASDM-C02-clustering.pdf
